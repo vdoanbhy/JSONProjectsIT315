@@ -27,14 +27,14 @@
       {
         "image": "http://mason.gmu.edu/~ywangm/images/thumbs/vcsharp2010htp.jpg",
         "title": "Visual C# How To Program",
-        "url": "",
+        "url": "https://www.amazon.com/Visual-How-Program-6th-Deitel/dp/0134601548",
         "description": "Appropriate for all basic-to-intermediate level courses in Visual C# 2012 programming. Created by world-renowned programming instructors Paul and Harvey Deitel, Visual C# 2012 How to Program, Fifth Edition introduces all facets of the C# 2012 language hands-on, through hundreds of working programs. This book has been thoroughly updated to reflect the major innovations Microsoft has incorporated in Visual C# 2012; all discussions and sample code have been carefully audited against the newest Visual C# language specification. Students begin by getting comfortable with the C# Express 2012 IDE and basic Visual C# syntax. Next, they build their skills one step at a time, mastering control structures, classes, objects, methods, variables, arrays, and the core techniques of object-oriented programming. With this strong foundation in place, the Deitels introduce more sophisticated techniques, including searching, sorting, data structures, generics, and collections. Throughout, the authors show students how to make the most of Microsoft's Visual Studio tools. A series of appendices provide essential programming reference material."
       },
       {
         "image": "http://mason.gmu.edu/~ywangm/images/thumbs/simplycpp.jpg",
         "title": "Simply C++",
         "url": "https://www.thriftbooks.com/w/visual-c-2012-how-to-program_harvey-m-deitel_paul-j-deitel/8970676/item/34262244/?mkwid=%7cdc&pcrid=380921424897&pkw=&pmt=&slid=&plc=&pgrid=86223744708&ptaid=pla-812302609106&gclid=Cj0KCQjw17n1BRDEARIsAFDHFey2oL2PRLQErI0L8jINJBe5o_RUOlwVgx8Psdux8BtF2iZLCM_OJG8aAn5MEALw_wcB#isbn=0133379337&idiq=34262244",
-        "description": ""
+        "description": "The Simply series combines the DEITEL® signature LIVE-CODE Approach with a new APPLICATION-DRIVEN methodology, in which readers build practical, real-world applications that incorporate C++ programming fundamentals. Readers build and execute complete applications from start to finish while learning the basics of programming from the ground up."
       },
       {
         "image": "http://mason.gmu.edu/~ywangm/images/thumbs/simplyvb2008.jpg",
