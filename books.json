@@ -1,0 +1,53 @@
+{
+  "Book": [
+    {
+      "image": "http://mason.gmu.edu/~ywangm/images/thumbs/cpphtp8.jpg",
+      "title": "C++ How to Program",
+      "url": "https://www.amazon.com/How-Program-10th-Paul-Deitel/dp/0134448235",
+      "description": "C++ How to Program presents leading-edge computing technologies in a friendly manner appropriate for introductory college course sequences, based on the curriculum recommendations of two key professional organizations–the ACM and the IEEE"
+    },
+    {
+      "image": "http://mason.gmu.edu/~ywangm/images/thumbs/iw3htp5.jpg",
+      "title": "Internet How to Program",
+      "url":"https://www.amazon.com/Internet-World-Wide-Web-Program-ebook/dp/B006YWRUZQ",
+      "description": "abc"
+    },
+    {
+      "image": "http://mason.gmu.edu/~ywangm/images/thumbs/jhtp9.jpg",
+      "title": "Java How to Program",
+      "url": "https://www.amazon.com/Java-How-Program-9th-Deitel/dp/0132575663",
+      "description": "abc"
+    },
+    {
+      "image": "http://mason.gmu.edu/~ywangm/images/thumbs/vb2010htp.jpg",
+      "title": "Visual Basic How To Program",
+      "url": "https://www.amazon.com/Visual-Basic-NET-How-Program-Second/dp/0130293636",
+      "description": "abc"
+    },
+    {
+      "image": "http://mason.gmu.edu/~ywangm/images/thumbs/vcsharp2010htp.jpg",
+      "title": "Visual C# How To Program",
+      "url": "https://www.amazon.com/Visual-How-Program-6th-Deitel/dp/0134601548",
+      "description": "abc"
+    },
+    {
+      "image": "http://mason.gmu.edu/~ywangm/images/thumbs/simplycpp.jpg",
+      "title": "Simply C++",
+      "url": "https://www.thriftbooks.com/w/visual-c-2012-how-to-program_harvey-m-deitel_paul-j-deitel/8970676/item/34262244/?mkwid=%7cdc&pcrid=380921424897&pkw=&pmt=&slid=&plc=&pgrid=86223744708&ptaid=pla-812302609106&gclid=Cj0KCQjw17n1BRDEARIsAFDHFey2oL2PRLQErI0L8jINJBe5o_RUOlwVgx8Psdux8BtF2iZLCM_OJG8aAn5MEALw_wcB#isbn=0133379337&idiq=34262244",
+      "description": "abc"
+    },
+    {
+      "image": "http://mason.gmu.edu/~ywangm/images/thumbs/simplyvb2008.jpg",
+      "title": "Simply VB 2008",
+      "url": "https://www.ebay.com/p/2417254?iid=273709038077&chn=ps&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&itemid=273709038077&targetid=885639120148&device=c&mktype=pla&googleloc=9052383&poi=&campaignid=9343999179&mkgroupid=103102860388&rlsatarget=pla-885639120148&abcId=1139336&merchantid=100507118&gclid=Cj0KCQjw17n1BRDEARIsAFDHFexmkVwMPw3q10CtMKrx-ewNtXyI_ioDUg3p62tJBuUsGQ5y1dl8_ewaAugvEALw_wcB",
+      "description": "abc"
+    },
+    {
+      "image": "http://mason.gmu.edu/~ywangm/images/thumbs/simplyjava.jpg",
+      "title": "Simply Java",
+      "url": "https://www.amazon.com/Simply-Java-Introduction-Programming/dp/1584504269",
+      "description": "abc"
+    }
+  ]
+}
+
